@@ -15,7 +15,7 @@ def calculadora(*operacao):
     elif  op_numeros[0] == 'DIV':
         div = int(op_numeros[1]) / int(op_numeros[2])
         return print(f'DIV: {div}')
-
+    x'xx'
 if __name__ == '__main__':
     calculadora(*sys.argv)
     
